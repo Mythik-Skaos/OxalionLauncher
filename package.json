@@ -7,7 +7,7 @@
   "license": "UNLICENSED",
   "homepage": "https://github.com/Mythik-Skaos/OxalionLauncher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/Mythik-Skaos/OxalionLauncher/issues"
   },
   "private": true,
   "main": "index.js",

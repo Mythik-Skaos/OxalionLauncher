@@ -134,7 +134,7 @@ function createMenu() {
     
     if(process.platform === 'darwin') {
 
-        // Extend default included application menu to continue support for quit keyboard shortcut
+        // Extend default included application menu to continue support for quit keyboard shortcut 
         let applicationSubMenu = {
             label: 'Application',
             submenu: [{
